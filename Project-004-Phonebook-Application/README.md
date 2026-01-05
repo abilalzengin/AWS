@@ -175,7 +175,7 @@ thousand                         Warning -> 'Invalid input: Phone number should 
 
 ## Steps to Solution
   
-- Step 1: Download or clone project definition from `clarusway` repo on Github 
+- Step 1: Download or clone project definition from `source` repo on Github 
 
 - Step 2: Prepare developer's app for production environment
 
