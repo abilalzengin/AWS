@@ -45,9 +45,7 @@ Kittens Carousel is a static website application deployed with Apache Web Server
         |----cat2.jpg    # Given to the students (image file)
 ```
 
-## Expected Outcome
 
-![Project 101 : Kittens Carousel Application Snapshot](./project-101-snapshot.png)
 
 ### At the end of the project, following topics are to be covered;
 
@@ -83,7 +81,7 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 
 ## Steps to Solution
   
-- Step 1: Download or clone project definition from `clarusway` repo on Github 
+- Step 1: Download or clone project definition from `source` repo on Github 
 
 - Step 2: Create project folder for local public repo on your pc
 
